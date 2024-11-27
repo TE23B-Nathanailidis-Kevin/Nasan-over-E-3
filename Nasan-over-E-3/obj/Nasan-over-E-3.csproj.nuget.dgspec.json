@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\kevin.nathanailidis\\OneDrive - Academedia\\Documents\\Programmering 1\\Nasan-over-E-3\\Nasan-over-E-3\\Nasan-over-E-3.csproj": {}
+    "c:\\Users\\kevin.nathanailidis\\OneDrive - Academedia\\Documents\\Programmering 1\\Nasan-over-E-3\\Nasan-over-E-3\\Nasan-over-E-3.csproj": {}
   },
   "projects": {
-    "C:\\Users\\kevin.nathanailidis\\OneDrive - Academedia\\Documents\\Programmering 1\\Nasan-over-E-3\\Nasan-over-E-3\\Nasan-over-E-3.csproj": {
+    "c:\\Users\\kevin.nathanailidis\\OneDrive - Academedia\\Documents\\Programmering 1\\Nasan-over-E-3\\Nasan-over-E-3\\Nasan-over-E-3.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\kevin.nathanailidis\\OneDrive - Academedia\\Documents\\Programmering 1\\Nasan-over-E-3\\Nasan-over-E-3\\Nasan-over-E-3.csproj",
+        "projectUniqueName": "c:\\Users\\kevin.nathanailidis\\OneDrive - Academedia\\Documents\\Programmering 1\\Nasan-over-E-3\\Nasan-over-E-3\\Nasan-over-E-3.csproj",
         "projectName": "Nasan-over-E-3",
-        "projectPath": "C:\\Users\\kevin.nathanailidis\\OneDrive - Academedia\\Documents\\Programmering 1\\Nasan-over-E-3\\Nasan-over-E-3\\Nasan-over-E-3.csproj",
+        "projectPath": "c:\\Users\\kevin.nathanailidis\\OneDrive - Academedia\\Documents\\Programmering 1\\Nasan-over-E-3\\Nasan-over-E-3\\Nasan-over-E-3.csproj",
         "packagesPath": "C:\\Users\\kevin.nathanailidis\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\kevin.nathanailidis\\OneDrive - Academedia\\Documents\\Programmering 1\\Nasan-over-E-3\\Nasan-over-E-3\\obj\\",
+        "outputPath": "c:\\Users\\kevin.nathanailidis\\OneDrive - Academedia\\Documents\\Programmering 1\\Nasan-over-E-3\\Nasan-over-E-3\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\kevin.nathanailidis\\AppData\\Roaming\\NuGet\\NuGet.Config"
